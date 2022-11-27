@@ -23,7 +23,7 @@ Skills: WordPress / FIGMA / C++ / Blender / Unity / Python/ C / HTML / CSS / Jav
 
 ![Profile views](https://gpvc.arturio.dev/rahul-raj-sinha)   
 
-![Profile views](https://gpvc.arturio.dev/rahul-raj-sinha)    
+ 
 
 <samp>
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
