@@ -15,13 +15,13 @@ Skills: WordPress / FIGMA / C++ / Blender / Unity / Python/ C / HTML / CSS / Jav
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahul-raj-sinha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahul-raj-8b5705228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004885870365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/1_rahul_raj/?next=%2F/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahul-raj-sinha)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-raj-sinha&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahul-raj-sinha)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rahul-raj-sinha)  
+
+![Profile views](https://gpvc.arturio.dev/rahul-raj-sinha)   
 
 ![Profile views](https://gpvc.arturio.dev/rahul-raj-sinha)    
 
