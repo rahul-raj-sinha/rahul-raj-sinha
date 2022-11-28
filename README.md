@@ -17,11 +17,13 @@ Skills: WordPress / FIGMA / C++ / Blender / Unity / Python/ C / HTML / CSS / Jav
 - 🔭 I’m currently working on Web Development projects 
 - 🌱 I’m currently learning Front-end and Back-end  
 - 👯 I’m looking to collaborate on Development or Open source projects 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1wtkeW05KDCKYtv4xGfYsObi4QhXwhLCW?usp=sharing](https://drive.google.com/drive/folders/1wtkeW05KDCKYtv4xGfYsObi4QhXwhLCW?usp=sharing)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahul-raj-sinha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-raj-8b5705228//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100004885870365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/1_rahul_raj/?next=%2F/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-raj-sinha&show_icons=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahul-raj-sinha)  
 
