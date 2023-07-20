@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rahul 
 ![](https://www.codecademy.com/resources/blog/content/images/size/w1600/2021/10/What-is-collaborative-coding-.png)
 
-I'm a 3rd year student at **SRM Institute of Science and technology**, pursuing Bachelor of Technology in the field of Computer Science.
+I'm a final year student at **SRM Institute of Science and technology**, pursuing Bachelor of Technology in the field of Computer Science.
 CS Undergraduate and innovative front-end developer. Proficient in HTML, CSS, JavaScript, WordPress, plus modern
 libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop.
 
