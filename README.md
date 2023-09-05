@@ -17,7 +17,6 @@ Skills: C++ / WordPress / FIGMA / Blender / Unity / Python / C / HTML / CSS / Ja
 - 🔭 I’m currently working on Web Development projects 
 - 🌱 I’m currently learning Front-end and Back-end  
 - 👯 I’m looking to collaborate on Development or Open source projects 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1wtkeW05KDCKYtv4xGfYsObi4QhXwhLCW?usp=sharing](https://drive.google.com/drive/folders/1wtkeW05KDCKYtv4xGfYsObi4QhXwhLCW?usp=sharing)
 
 
 
